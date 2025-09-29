@@ -31,5 +31,5 @@ tential, making it easier for operators to match stocks with the right profiles.
 
  ## 📂 Project Files
 
-* The source code for the analysis can be found in [`script.R`](./script.R).
-* The full project documentation, including methodology and detailed results, is available in [`Project.pdf`](./docs/Project.pdf).
+* The source code for the analysis can be found in [`script.R`](code_clustering_and_classification_of_sp500_stocks.R).
+* The full project documentation, including methodology and detailed results, is available in [`Project.pdf`](report_clustering_and_classification_of_sp500_stocks.pdf).

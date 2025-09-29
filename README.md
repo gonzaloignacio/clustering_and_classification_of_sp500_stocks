@@ -1,4 +1,4 @@
-# Project summary
+# Project Summary
  Making the right stock choices is a challenge for all market operators, especially with the
  vast number of stocks to consider and the constant changes in the market. Operators of
 ten have different goals and risk preferences, and sorting through all available options to

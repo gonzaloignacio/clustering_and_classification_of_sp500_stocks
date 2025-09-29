@@ -1,5 +1,4 @@
-# clustering_and_classification_of_sp500_stocks
-
+# Project summary
  Making the right stock choices is a challenge for all market operators, especially with the
  vast number of stocks to consider and the constant changes in the market. Operators of
 ten have different goals and risk preferences, and sorting through all available options to
